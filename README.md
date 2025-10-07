@@ -74,6 +74,6 @@ Optional:
 Oh My Zsh for better prompts
 
 🧑‍💻 Author
-<a href="https://github.com/cookiesn1ffer" target="_blank">Download Font</a>:
+<a href="https://github.com/cookiesn1ffer" target="_blank">@cookiesn1ffer</a>:
 ✨ Exploring hacking, cybersecurity, and Linux.
 
