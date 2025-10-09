@@ -45,7 +45,7 @@ Clone the repository
 ```bash
 Copy code
 git clone https://github.com/cookiesn1ffer/Alacritty-terminal-glow-up.git
-cd alacritty-beautiful
+cd Alacritty-terminal-glow-up
 ```
 Copy the config to Alacritty’s directory
 
