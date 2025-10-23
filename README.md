@@ -43,21 +43,18 @@ alacritty --config-file alacritty.toml
 Clone the repository
 
 ```bash
-Copy code
 git clone https://github.com/cookiesn1ffer/Alacritty-terminal-glow-up.git
 cd Alacritty-terminal-glow-up
 ```
 Copy the config to Alacritty’s directory
 
 ```bash
-Copy code
 mkdir -p ~/.config/alacritty
 cp alacritty.toml ~/.config/alacritty/alacritty.toml
 ```
 Launch Alacritty
 
 ```bash
-Copy code
 alacritty
 ```
 🧩 Dependencies
@@ -65,7 +62,7 @@ Make sure you have these installed:
 
 Alacritty → <a href="https://alacritty.org/" target="_blank">Download Alacritty</a>:
 
-JetBrains Mono font →  <a href="https://www.jetbrains.com/lp/mono/" target="_blank">Download Font</a>:
+JetBrains Mono font → sudo pacman -S ttf-jetbrains-mono
 
 Zsh shell → sudo apt install zsh or your distro equivalent
 
