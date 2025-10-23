@@ -64,7 +64,7 @@ Alacritty → <a href="https://alacritty.org/" target="_blank">Download Alacritt
 
 JetBrains Mono font → sudo pacman -S ttf-jetbrains-mono
 
-Zsh shell → sudo apt install zsh or your distro equivalent
+Zsh shell → sudo pacman -S zsh or your distro equivalent
 
 Optional:
 
